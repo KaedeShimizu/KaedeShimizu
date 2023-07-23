@@ -1,6 +1,5 @@
-# About me
-Well, I am just a high school student in China, I like do works about computer or coding.
-
-I truly like coding in my free time.One of the reason is that I can practice my logical thinking skills, the other is that I can have joy when I learn something new!
-
-Ok, that's enough. <u>Fight for the future!</u>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaedeShimizu/KaedeShimizu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaedeShimizu/KaedeShimizu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/KaedeShimizu/KaedeShimizu/output/github-contribution-grid-snake.svg">
+</picture>
